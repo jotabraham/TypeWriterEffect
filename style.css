@@ -3,8 +3,8 @@
 body {
     font-family: 'Raleway', sans-serif;
     height: 100vh;
-    background: #333 url('sunset deeeer.jpg') no-repeat center center / cover;
-    color: #ccc;
+    background: #333 url('RnJ-420.jpg') no-repeat center center / cover;
+    color: #ffffff;
     overflow: hidden;
 }
 
@@ -27,7 +27,6 @@ h1 {
 
 h2 {
     font-size: 2rem;
-    color: #aaa;
 }
 
 @media(min-width: 1200px) {
